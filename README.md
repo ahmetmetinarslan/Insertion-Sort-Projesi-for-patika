@@ -48,6 +48,36 @@ Dizinin Sıralı hali <br>
 3- [2,3,4,5,7,9,8,15,6]<br>
 4- [2,3,4,5,6,9,8,15,7]<br>
 
+<hr>
+
+
+Merge Sort Projesi<br>
+
+Proje 2<br>
+
+[16,21,11,8,12,22] -> Merge Sort<br>
+
+    Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.<br>
+    Big-O gösterimini yazınız.<br>
+
+
+
+
+Soru-1<br>
+
+16,21,11  8,12,22<br>
+16,21  11  8  12,22<br>
+16  21  11  8  12  22<br>
+
+11,16,21  8,12,22<br>
+
+8,11,12,21,22<br>
+
+
+Soru-2<br>
+
+O(6*(log6))<br>
+
 
 
 
