@@ -8,17 +8,17 @@ Proje - 1 <br>
 1-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.<br>
 
 Sort Türüne Göre Aşamalar<br>
-1- [2|27,16,22,18,6]<br><br><br><br>
-2- [2,6|16,22,18,27]<br><br><br>
-3- [2,6,16|22,18,27]<br><br>
+1- [2|27,16,22,18,6]<br>
+2- [2,6|16,22,18,27]<br>
+3- [2,6,16|22,18,27]<br>
 4- [2,6,16,18|22,27]<br>
 
 <hr>
 
-2-Big-O gösterimini yazınız.<br><br><br><br>
+2-Big-O gösterimini yazınız.<br>
 
-Big-O = O(n2)<br><br><br>
-n=6<br><br>
+Big-O = O(n2)<br>
+n=6<br>
 O(6²)=36 <br>
 
 <hr>
